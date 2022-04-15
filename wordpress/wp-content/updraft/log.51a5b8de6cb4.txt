@@ -1,0 +1,4 @@
+0000.000 (1) Opened log file at time: Wed, 09 Dec 2020 23:38:24 +0000 on https://kidsloop.vn
+0000.028 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.22.24 WP: 5.6 PHP: 7.2.18 (apache2handler, Linux b394db6cf2e0 4.4.0-131-generic #157-Ubuntu SMP Thu Jul 12 15:51:36 UTC 2018 x86_64) MySQL: 10.3.17-MariaDB WPLANG: en_US Server: Apache/2.4.39 (Unix) OpenSSL/1.1.0j PHP/7.2.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 15.4M | 2M) multisite: N openssl: OpenSSL 1.1.0j  20 Nov 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.042 (1) Free space on disk containing Updraft's temporary directory: 14777.8 MB
+0000.058 (1) This backup task (51a5b8de6cb4) is either complete or began over 2 days ago: ending (1607557104.9947, ) (existing jobdata keys: )

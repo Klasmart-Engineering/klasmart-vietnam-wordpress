@@ -1,0 +1,655 @@
+0000.019 (R) [notice] Looking for db archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-db.gz
+0000.019 (R) [notice] Archive is expected to be size: 5715.6 KB: OK
+0000.019 (R) [notice] Looking for plugins archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-plugins.zip
+0000.019 (R) [notice] Archive is expected to be size: 26013 KB: OK
+0000.019 (R) [notice] Looking for plugins archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-plugins2.zip
+0000.019 (R) [notice] Archive is expected to be size: 892.9 KB: OK
+0000.020 (R) [notice] Looking for themes archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-themes.zip
+0000.020 (R) [notice] Archive is expected to be size: 25968 KB: OK
+0000.020 (R) [notice] Looking for themes archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-themes2.zip
+0000.020 (R) [notice] Archive is expected to be size: 6258.4 KB: OK
+0000.020 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads.zip
+0000.020 (R) [notice] Archive is expected to be size: 30833.9 KB: OK
+0000.020 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads2.zip
+0000.020 (R) [notice] Archive is expected to be size: 25735 KB: OK
+0000.020 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads3.zip
+0000.020 (R) [notice] Archive is expected to be size: 26075.4 KB: OK
+0000.020 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads4.zip
+0000.020 (R) [notice] Archive is expected to be size: 25673.5 KB: OK
+0000.021 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads5.zip
+0000.021 (R) [notice] Archive is expected to be size: 26118.2 KB: OK
+0000.021 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads6.zip
+0000.021 (R) [notice] Archive is expected to be size: 25602 KB: OK
+0000.021 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads7.zip
+0000.021 (R) [notice] Archive is expected to be size: 25682.1 KB: OK
+0000.023 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads8.zip
+0000.023 (R) [notice] Archive is expected to be size: 26251 KB: OK
+0000.023 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads9.zip
+0000.023 (R) [notice] Archive is expected to be size: 25822.5 KB: OK
+0000.023 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads10.zip
+0000.023 (R) [notice] Archive is expected to be size: 25853.2 KB: OK
+0000.023 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads11.zip
+0000.023 (R) [notice] Archive is expected to be size: 25788 KB: OK
+0000.023 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads12.zip
+0000.023 (R) [notice] Archive is expected to be size: 25641.4 KB: OK
+0000.023 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads13.zip
+0000.023 (R) [notice] Archive is expected to be size: 25672.6 KB: OK
+0000.023 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads14.zip
+0000.024 (R) [notice] Archive is expected to be size: 25679.1 KB: OK
+0000.024 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads15.zip
+0000.024 (R) [notice] Archive is expected to be size: 35354.2 KB: OK
+0000.024 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads16.zip
+0000.024 (R) [notice] Archive is expected to be size: 25631.6 KB: OK
+0000.024 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads17.zip
+0000.024 (R) [notice] Archive is expected to be size: 25684.3 KB: OK
+0000.024 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads18.zip
+0000.024 (R) [notice] Archive is expected to be size: 25692.9 KB: OK
+0000.024 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads19.zip
+0000.025 (R) [notice] Archive is expected to be size: 25633.4 KB: OK
+0000.025 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads20.zip
+0000.025 (R) [notice] Archive is expected to be size: 25642.4 KB: OK
+0000.025 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads21.zip
+0000.025 (R) [notice] Archive is expected to be size: 31543 KB: OK
+0000.029 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads22.zip
+0000.030 (R) [notice] Archive is expected to be size: 26148.6 KB: OK
+0000.030 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads23.zip
+0000.030 (R) [notice] Archive is expected to be size: 25388.9 KB: OK
+0000.030 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads24.zip
+0000.030 (R) [notice] Archive is expected to be size: 25400.3 KB: OK
+0000.030 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads25.zip
+0000.030 (R) [notice] Archive is expected to be size: 25042.4 KB: OK
+0000.030 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads26.zip
+0000.030 (R) [notice] Archive is expected to be size: 26101.5 KB: OK
+0000.030 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads27.zip
+0000.030 (R) [notice] Archive is expected to be size: 53163.2 KB: OK
+0000.030 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads28.zip
+0000.030 (R) [notice] Archive is expected to be size: 25724.6 KB: OK
+0000.030 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads29.zip
+0000.031 (R) [notice] Archive is expected to be size: 25703.5 KB: OK
+0000.031 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads30.zip
+0000.031 (R) [notice] Archive is expected to be size: 26183.7 KB: OK
+0000.031 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads31.zip
+0000.031 (R) [notice] Archive is expected to be size: 26761.1 KB: OK
+0000.031 (R) [notice] Looking for uploads archive: file name: backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads32.zip
+0000.031 (R) [notice] Archive is expected to be size: 18230.7 KB: OK
+0000.033 (R) [notice] Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.042 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-db.gz, 5.6 Mb)
+0000.057 (R) [notice] Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.194 (R) [notice] Enabling Maintenance mode&#8230;
+0000.194 (R) [notice] Backup created by: 2.16.22.24
+0000.194 (R) [notice] Backup of: https://www.kidsloop.net
+0000.226 (R) [notice] Content URL: https://www.kidsloop.net/wp-content
+0000.227 (R) [notice] Uploads URL: https://www.kidsloop.net/wp-content/uploads
+0000.227 (R) [notice] Old table prefix: wp_
+0000.227 (R) [notice] Site information: multisite = 0
+0000.229 (R) [notice] New table prefix: wp_
+0000.273 (R) [notice] Processing table (InnoDB):  wp_options
+0004.065 (R) [notice] Search and replacing table: wp_options: rows: 539
+0004.438 (R) [notice] Processing table (InnoDB):  wp_site
+0004.501 (R) [notice] Search and replacing table: wp_site: rows: 1
+0004.502 (R) [notice] Processing table (InnoDB):  wp_blogs
+0004.710 (R) [notice] Search and replacing table: wp_blogs: rows: 2
+0004.712 (R) [notice] Processing table (InnoDB):  wp_users
+0004.945 (R) [notice] Search and replacing table: wp_users: rows: 4
+0004.946 (R) [notice] Processing table (InnoDB):  wp_usermeta
+0005.161 (R) [notice] Search and replacing table: wp_usermeta: rows: 108
+0005.168 (R) [notice] Processing table (InnoDB):  wp_actionscheduler_actions
+0005.421 (R) [notice] Search and replacing table: wp_actionscheduler_actions: rows: 14
+0005.424 (R) [notice] Processing table (InnoDB):  wp_actionscheduler_claims
+0005.604 (R) [notice] Search and replacing table: wp_actionscheduler_claims: rows: 0
+0005.605 (R) [notice] Processing table (InnoDB):  wp_actionscheduler_groups
+0005.821 (R) [notice] Search and replacing table: wp_actionscheduler_groups: rows: 2
+0005.821 (R) [notice] Processing table (InnoDB):  wp_actionscheduler_logs
+0005.955 (R) [notice] Search and replacing table: wp_actionscheduler_logs: rows: 42
+0005.959 (R) [notice] Processing table (InnoDB):  wp_blogmeta
+0006.150 (R) [notice] Search and replacing table: wp_blogmeta: rows: 0
+0006.150 (R) [notice] Processing table (InnoDB):  wp_commentmeta
+0006.346 (R) [notice] Search and replacing table: wp_commentmeta: rows: 0
+0006.346 (R) [notice] Processing table (InnoDB):  wp_comments
+0006.586 (R) [notice] Search and replacing table: wp_comments: rows: 0
+0006.586 (R) [notice] Processing table (InnoDB):  wp_links
+0006.755 (R) [notice] Search and replacing table: wp_links: rows: 0
+0006.755 (R) [notice] Processing table (InnoDB):  wp_postmeta
+0007.469 (R) [notice] Database queries processed: 50 in 7.41 seconds
+0010.509 (R) [notice] Search and replacing table: wp_postmeta: rows: 864
+0016.715 (R) [notice] Processing table (InnoDB):  wp_posts
+0017.371 (R) [notice] Database queries processed: 100 in 17.31 seconds
+0017.648 (R) [notice] Search and replacing table: wp_posts: rows: 1299
+0021.498 (R) [notice] Processing table (InnoDB):  wp_registration_log
+0021.623 (R) [notice] Search and replacing table: wp_registration_log: rows: 0
+0021.623 (R) [notice] Processing table (InnoDB):  wp_signups
+0021.774 (R) [notice] Search and replacing table: wp_signups: rows: 0
+0021.774 (R) [notice] Processing table (InnoDB):  wp_sitemeta
+0022.209 (R) [notice] Search and replacing table: wp_sitemeta: rows: 70
+0022.235 (R) [notice] Processing table (InnoDB):  wp_term_relationships
+0022.427 (R) [notice] Skipping this table: data in this table (wp_term_relationships) should not be search/replaced
+0022.427 (R) [notice] Processing table (InnoDB):  wp_term_taxonomy
+0022.657 (R) [notice] Search and replacing table: wp_term_taxonomy: rows: 16
+0022.658 (R) [notice] Processing table (InnoDB):  wp_termmeta
+0022.848 (R) [notice] Search and replacing table: wp_termmeta: rows: 0
+0022.848 (R) [notice] Processing table (InnoDB):  wp_terms
+0023.029 (R) [notice] Search and replacing table: wp_terms: rows: 16
+0023.031 (R) [notice] Processing table (InnoDB):  wp_4_content_tabs_ultimate_import
+0023.169 (R) [notice] Search and replacing table: wp_4_content_tabs_ultimate_import: rows: 5
+0023.170 (R) [notice] Processing table (InnoDB):  wp_4_content_tabs_ultimate_list
+0023.274 (R) [notice] Search and replacing table: wp_4_content_tabs_ultimate_list: rows: 0
+0023.274 (R) [notice] Processing table (InnoDB):  wp_4_content_tabs_ultimate_style
+0023.373 (R) [notice] Search and replacing table: wp_4_content_tabs_ultimate_style: rows: 0
+0023.374 (R) [notice] Processing table (InnoDB):  wp_4_layerslider
+0023.490 (R) [notice] Search and replacing table: wp_4_layerslider: rows: 0
+0023.490 (R) [notice] Processing table (InnoDB):  wp_4_layerslider_revisions
+0023.589 (R) [notice] Search and replacing table: wp_4_layerslider_revisions: rows: 0
+0023.589 (R) [notice] Processing table (InnoDB):  wp_4_pmxe_exports
+0023.688 (R) [notice] Search and replacing table: wp_4_pmxe_exports: rows: 0
+0023.688 (R) [notice] Processing table (InnoDB):  wp_4_pmxe_google_cats
+0024.155 (R) [notice] Search and replacing table: wp_4_pmxe_google_cats: rows: 5371
+0024.428 (R) [notice] Searching and replacing reached row: 5000
+0024.450 (R) [notice] Processing table (InnoDB):  wp_4_pmxe_posts
+0024.495 (R) [notice] Search and replacing table: wp_4_pmxe_posts: rows: 0
+0024.496 (R) [notice] Processing table (InnoDB):  wp_4_pmxe_templates
+0024.549 (R) [notice] Database queries processed: 150 in 24.49 seconds
+0024.565 (R) [notice] Search and replacing table: wp_4_pmxe_templates: rows: 0
+0024.565 (R) [notice] Processing table (InnoDB):  wp_4_redirection_404
+0024.942 (R) [notice] Search and replacing table: wp_4_redirection_404: rows: 959
+0024.998 (R) [notice] Processing table (InnoDB):  wp_4_redirection_groups
+0025.105 (R) [notice] Search and replacing table: wp_4_redirection_groups: rows: 2
+0025.106 (R) [notice] Processing table (InnoDB):  wp_4_redirection_items
+0025.301 (R) [notice] Search and replacing table: wp_4_redirection_items: rows: 16
+0025.304 (R) [notice] Processing table (InnoDB):  wp_4_redirection_logs
+0025.479 (R) [notice] Search and replacing table: wp_4_redirection_logs: rows: 18
+0025.482 (R) [notice] Processing table (InnoDB):  wp_4_revslider_css
+0025.661 (R) [notice] Search and replacing table: wp_4_revslider_css: rows: 109
+0025.705 (R) [notice] Processing table (InnoDB):  wp_4_revslider_css_bkp
+0025.791 (R) [notice] Search and replacing table: wp_4_revslider_css_bkp: rows: 47
+0025.798 (R) [notice] Processing table (InnoDB):  wp_4_revslider_layer_animations
+0025.906 (R) [notice] Search and replacing table: wp_4_revslider_layer_animations: rows: 0
+0025.906 (R) [notice] Processing table (InnoDB):  wp_4_revslider_layer_animations_bkp
+0026.185 (R) [notice] Search and replacing table: wp_4_revslider_layer_animations_bkp: rows: 0
+0026.186 (R) [notice] Processing table (InnoDB):  wp_4_revslider_navigations
+0026.266 (R) [notice] Search and replacing table: wp_4_revslider_navigations: rows: 0
+0026.266 (R) [notice] Processing table (InnoDB):  wp_4_revslider_navigations_bkp
+0026.331 (R) [notice] Search and replacing table: wp_4_revslider_navigations_bkp: rows: 0
+0026.332 (R) [notice] Processing table (InnoDB):  wp_4_revslider_sliders
+0026.471 (R) [notice] Search and replacing table: wp_4_revslider_sliders: rows: 3
+0026.474 (R) [notice] Processing table (InnoDB):  wp_4_revslider_sliders_bkp
+0026.572 (R) [notice] Search and replacing table: wp_4_revslider_sliders_bkp: rows: 0
+0026.572 (R) [notice] Processing table (InnoDB):  wp_4_revslider_slides
+0026.701 (R) [notice] Search and replacing table: wp_4_revslider_slides: rows: 5
+0026.709 (R) [notice] Processing table (InnoDB):  wp_4_revslider_slides_bkp
+0026.817 (R) [notice] Search and replacing table: wp_4_revslider_slides_bkp: rows: 0
+0026.817 (R) [notice] Processing table (InnoDB):  wp_4_revslider_static_slides
+0026.991 (R) [notice] Search and replacing table: wp_4_revslider_static_slides: rows: 3
+0026.992 (R) [notice] Processing table (InnoDB):  wp_4_revslider_static_slides_bkp
+0027.092 (R) [notice] Search and replacing table: wp_4_revslider_static_slides_bkp: rows: 0
+0027.092 (R) [notice] Processing table (InnoDB):  wp_4_tm_taskmeta
+0027.341 (R) [notice] Search and replacing table: wp_4_tm_taskmeta: rows: 189
+0027.369 (R) [notice] Processing table (InnoDB):  wp_4_tm_tasks
+0027.511 (R) [notice] Search and replacing table: wp_4_tm_tasks: rows: 189
+0027.529 (R) [notice] Processing table (InnoDB):  wp_5_commentmeta
+0027.643 (R) [notice] Database queries processed: 200 in 27.58 seconds
+0027.646 (R) [notice] Search and replacing table: wp_5_commentmeta: rows: 0
+0027.646 (R) [notice] Processing table (InnoDB):  wp_5_comments
+0027.796 (R) [notice] Search and replacing table: wp_5_comments: rows: 0
+0027.797 (R) [notice] Processing table (InnoDB):  wp_5_content_tabs_ultimate_import
+0027.935 (R) [notice] Search and replacing table: wp_5_content_tabs_ultimate_import: rows: 5
+0027.936 (R) [notice] Processing table (InnoDB):  wp_5_content_tabs_ultimate_list
+0028.131 (R) [notice] Search and replacing table: wp_5_content_tabs_ultimate_list: rows: 0
+0028.131 (R) [notice] Processing table (InnoDB):  wp_5_content_tabs_ultimate_style
+0028.246 (R) [notice] Search and replacing table: wp_5_content_tabs_ultimate_style: rows: 0
+0028.247 (R) [notice] Processing table (InnoDB):  wp_5_layerslider
+0028.362 (R) [notice] Search and replacing table: wp_5_layerslider: rows: 0
+0028.362 (R) [notice] Processing table (InnoDB):  wp_5_layerslider_revisions
+0028.461 (R) [notice] Search and replacing table: wp_5_layerslider_revisions: rows: 0
+0028.462 (R) [notice] Processing table (InnoDB):  wp_5_links
+0028.601 (R) [notice] Search and replacing table: wp_5_links: rows: 0
+0028.601 (R) [notice] Processing table (InnoDB):  wp_5_options
+0029.435 (R) [notice] Search and replacing table: wp_5_options: rows: 348
+0029.802 (R) [notice] Processing table (InnoDB):  wp_5_pmxe_exports
+0029.843 (R) [notice] Search and replacing table: wp_5_pmxe_exports: rows: 0
+0029.843 (R) [notice] Processing table (InnoDB):  wp_5_pmxe_google_cats
+0030.638 (R) [notice] Search and replacing table: wp_5_pmxe_google_cats: rows: 5371
+0030.918 (R) [notice] Searching and replacing reached row: 5000
+0030.941 (R) [notice] Processing table (InnoDB):  wp_5_pmxe_posts
+0030.987 (R) [notice] Search and replacing table: wp_5_pmxe_posts: rows: 0
+0030.987 (R) [notice] Processing table (InnoDB):  wp_5_pmxe_templates
+0031.057 (R) [notice] Search and replacing table: wp_5_pmxe_templates: rows: 0
+0031.057 (R) [notice] Processing table (InnoDB):  wp_5_postmeta
+0032.510 (R) [notice] Search and replacing table: wp_5_postmeta: rows: 2691
+0032.707 (R) [notice] Processing table (InnoDB):  wp_5_posts
+0033.207 (R) [notice] Search and replacing table: wp_5_posts: rows: 473
+0033.295 (R) [notice] Processing table (InnoDB):  wp_5_redirection_404
+0033.373 (R) [notice] Search and replacing table: wp_5_redirection_404: rows: 3
+0033.373 (R) [notice] Processing table (InnoDB):  wp_5_redirection_groups
+0033.546 (R) [notice] Database queries processed: 250 in 33.49 seconds
+0033.547 (R) [notice] Search and replacing table: wp_5_redirection_groups: rows: 2
+0033.548 (R) [notice] Processing table (InnoDB):  wp_5_redirection_items
+0033.787 (R) [notice] Search and replacing table: wp_5_redirection_items: rows: 16
+0033.790 (R) [notice] Processing table (InnoDB):  wp_5_redirection_logs
+0033.943 (R) [notice] Search and replacing table: wp_5_redirection_logs: rows: 0
+0033.943 (R) [notice] Processing table (InnoDB):  wp_5_revslider_css
+0034.142 (R) [notice] Search and replacing table: wp_5_revslider_css: rows: 109
+0034.196 (R) [notice] Processing table (InnoDB):  wp_5_revslider_css_bkp
+0034.425 (R) [notice] Search and replacing table: wp_5_revslider_css_bkp: rows: 47
+0034.437 (R) [notice] Processing table (InnoDB):  wp_5_revslider_layer_animations
+0034.539 (R) [notice] Search and replacing table: wp_5_revslider_layer_animations: rows: 0
+0034.539 (R) [notice] Processing table (InnoDB):  wp_5_revslider_layer_animations_bkp
+0034.653 (R) [notice] Search and replacing table: wp_5_revslider_layer_animations_bkp: rows: 0
+0034.653 (R) [notice] Processing table (InnoDB):  wp_5_revslider_navigations
+0034.834 (R) [notice] Search and replacing table: wp_5_revslider_navigations: rows: 0
+0034.834 (R) [notice] Processing table (InnoDB):  wp_5_revslider_navigations_bkp
+0034.934 (R) [notice] Search and replacing table: wp_5_revslider_navigations_bkp: rows: 0
+0034.934 (R) [notice] Processing table (InnoDB):  wp_5_revslider_sliders
+0035.114 (R) [notice] Search and replacing table: wp_5_revslider_sliders: rows: 3
+0035.118 (R) [notice] Processing table (InnoDB):  wp_5_revslider_sliders_bkp
+0035.310 (R) [notice] Search and replacing table: wp_5_revslider_sliders_bkp: rows: 0
+0035.310 (R) [notice] Processing table (InnoDB):  wp_5_revslider_slides
+0035.463 (R) [notice] Search and replacing table: wp_5_revslider_slides: rows: 5
+0035.468 (R) [notice] Processing table (InnoDB):  wp_5_revslider_slides_bkp
+0035.579 (R) [notice] Search and replacing table: wp_5_revslider_slides_bkp: rows: 0
+0035.579 (R) [notice] Processing table (InnoDB):  wp_5_revslider_static_slides
+0035.731 (R) [notice] Search and replacing table: wp_5_revslider_static_slides: rows: 3
+0035.732 (R) [notice] Processing table (InnoDB):  wp_5_revslider_static_slides_bkp
+0035.950 (R) [notice] Search and replacing table: wp_5_revslider_static_slides_bkp: rows: 0
+0035.950 (R) [notice] Processing table (InnoDB):  wp_5_term_relationships
+0036.088 (R) [notice] Search and replacing table: wp_5_term_relationships: rows: 425
+0036.109 (R) [notice] Processing table (InnoDB):  wp_5_term_taxonomy
+0036.255 (R) [notice] Search and replacing table: wp_5_term_taxonomy: rows: 104
+0036.264 (R) [notice] Processing table (InnoDB):  wp_5_termmeta
+0036.507 (R) [notice] Search and replacing table: wp_5_termmeta: rows: 0
+0036.508 (R) [notice] Processing table (InnoDB):  wp_5_terms
+0036.672 (R) [notice] Search and replacing table: wp_5_terms: rows: 104
+0036.680 (R) [notice] Processing table (InnoDB):  wp_5_tm_taskmeta
+0037.059 (R) [notice] Search and replacing table: wp_5_tm_taskmeta: rows: 189
+0037.092 (R) [notice] Processing table (InnoDB):  wp_5_tm_tasks
+0037.288 (R) [notice] Search and replacing table: wp_5_tm_tasks: rows: 189
+0037.310 (R) [notice] Processing table (InnoDB):  wp_layerslider
+0037.686 (R) [notice] Search and replacing table: wp_layerslider: rows: 0
+0037.686 (R) [notice] Processing table (InnoDB):  wp_layerslider_revisions
+0037.773 (R) [notice] Search and replacing table: wp_layerslider_revisions: rows: 0
+0037.774 (R) [notice] Processing table (InnoDB):  wp_revslider_css
+0038.103 (R) [notice] Search and replacing table: wp_revslider_css: rows: 109
+0038.149 (R) [notice] Processing table (InnoDB):  wp_revslider_css_bkp
+0038.309 (R) [notice] Search and replacing table: wp_revslider_css_bkp: rows: 47
+0038.317 (R) [notice] Processing table (InnoDB):  wp_revslider_layer_animations
+0038.563 (R) [notice] Search and replacing table: wp_revslider_layer_animations: rows: 0
+0038.564 (R) [notice] Processing table (InnoDB):  wp_revslider_layer_animations_bkp
+0038.738 (R) [notice] Search and replacing table: wp_revslider_layer_animations_bkp: rows: 0
+0038.738 (R) [notice] Processing table (InnoDB):  wp_revslider_navigations
+0039.011 (R) [notice] Search and replacing table: wp_revslider_navigations: rows: 0
+0039.011 (R) [notice] Processing table (InnoDB):  wp_revslider_navigations_bkp
+0039.183 (R) [notice] Search and replacing table: wp_revslider_navigations_bkp: rows: 0
+0039.184 (R) [notice] Processing table (InnoDB):  wp_revslider_sliders
+0039.378 (R) [notice] Search and replacing table: wp_revslider_sliders: rows: 1
+0039.382 (R) [notice] Processing table (InnoDB):  wp_revslider_sliders_bkp
+0039.779 (R) [notice] Search and replacing table: wp_revslider_sliders_bkp: rows: 0
+0039.779 (R) [notice] Processing table (InnoDB):  wp_revslider_slides
+0040.053 (R) [notice] Search and replacing table: wp_revslider_slides: rows: 2
+0040.062 (R) [notice] Processing table (InnoDB):  wp_revslider_slides_bkp
+0040.228 (R) [notice] Search and replacing table: wp_revslider_slides_bkp: rows: 0
+0040.228 (R) [notice] Processing table (InnoDB):  wp_revslider_static_slides
+0040.423 (R) [notice] Search and replacing table: wp_revslider_static_slides: rows: 1
+0040.424 (R) [notice] Processing table (InnoDB):  wp_revslider_static_slides_bkp
+0040.689 (R) [notice] Search and replacing table: wp_revslider_static_slides_bkp: rows: 0
+0040.689 (R) [notice] Processing table (InnoDB):  wp_statichtmloutput_crawl_log
+0040.833 (R) [notice] Search and replacing table: wp_statichtmloutput_crawl_log: rows: 269
+0040.849 (R) [notice] Processing table (InnoDB):  wp_statichtmloutput_deploy_cache
+0041.093 (R) [notice] Search and replacing table: wp_statichtmloutput_deploy_cache: rows: 244
+0041.111 (R) [notice] Processing table (InnoDB):  wp_statichtmloutput_deploy_queue
+0041.192 (R) [notice] Search and replacing table: wp_statichtmloutput_deploy_queue: rows: 0
+0041.192 (R) [notice] Processing table (InnoDB):  wp_statichtmloutput_exclusions
+0041.307 (R) [notice] Search and replacing table: wp_statichtmloutput_exclusions: rows: 0
+0041.308 (R) [notice] Processing table (InnoDB):  wp_statichtmloutput_log
+0041.437 (R) [notice] Search and replacing table: wp_statichtmloutput_log: rows: 81
+0041.455 (R) [notice] Processing table (InnoDB):  wp_statichtmloutput_urls
+0041.733 (R) [notice] Search and replacing table: wp_statichtmloutput_urls: rows: 0
+0041.733 (R) [notice] Processing table (InnoDB):  wp_tm_taskmeta
+0041.888 (R) [notice] Search and replacing table: wp_tm_taskmeta: rows: 3
+0041.890 (R) [notice] Processing table (InnoDB):  wp_tm_tasks
+0042.069 (R) [notice] Search and replacing table: wp_tm_tasks: rows: 0
+0042.069 (R) [notice] Processing table (InnoDB):  wp_wfblockediplog
+0042.214 (R) [notice] Search and replacing table: wp_wfblockediplog: rows: 993
+0042.309 (R) [notice] Processing table (InnoDB):  wp_wfblocks7
+0042.395 (R) [notice] Search and replacing table: wp_wfblocks7: rows: 8
+0042.396 (R) [notice] Processing table (InnoDB):  wp_wfconfig
+0043.132 (R) [notice] Search and replacing table: wp_wfconfig: rows: 263
+0043.297 (R) [notice] Processing table (InnoDB):  wp_wfcrawlers
+0043.367 (R) [notice] Search and replacing table: wp_wfcrawlers: rows: 18
+0043.370 (R) [notice] Processing table (InnoDB):  wp_wffilechanges
+0043.468 (R) [notice] Search and replacing table: wp_wffilechanges: rows: 0
+0043.468 (R) [notice] Processing table (InnoDB):  wp_wffilemods
+0044.711 (R) [notice] Search and replacing table: wp_wffilemods: rows: 11157
+0045.123 (R) [notice] Searching and replacing reached row: 5000
+0045.516 (R) [notice] Searching and replacing reached row: 10000
+0045.625 (R) [notice] Processing table (InnoDB):  wp_wfhits
+0046.515 (R) [notice] Search and replacing table: wp_wfhits: rows: 1933
+0079.183 (R) [notice] Processing table (InnoDB):  wp_wfhoover
+0079.325 (R) [notice] Search and replacing table: wp_wfhoover: rows: 0
+0079.325 (R) [notice] Processing table (InnoDB):  wp_wfissues
+0079.495 (R) [notice] Search and replacing table: wp_wfissues: rows: 13
+0079.498 (R) [notice] Processing table (InnoDB):  wp_wfknownfilelist
+0080.397 (R) [notice] Search and replacing table: wp_wfknownfilelist: rows: 11157
+0080.552 (R) [notice] Searching and replacing reached row: 5000
+0080.719 (R) [notice] Searching and replacing reached row: 10000
+0080.759 (R) [notice] Processing table (InnoDB):  wp_wflivetraffichuman
+0080.820 (R) [notice] Search and replacing table: wp_wflivetraffichuman: rows: 0
+0080.821 (R) [notice] Processing table (InnoDB):  wp_wflocs
+0080.914 (R) [notice] Search and replacing table: wp_wflocs: rows: 2
+0080.915 (R) [notice] Processing table (InnoDB):  wp_wflogins
+0081.416 (R) [notice] Search and replacing table: wp_wflogins: rows: 2004
+0081.607 (R) [notice] Processing table (InnoDB):  wp_wfls_2fa_secrets
+0081.661 (R) [notice] Search and replacing table: wp_wfls_2fa_secrets: rows: 0
+0081.661 (R) [notice] Processing table (InnoDB):  wp_wfls_settings
+0081.994 (R) [notice] Search and replacing table: wp_wfls_settings: rows: 19
+0081.995 (R) [notice] Processing table (InnoDB):  wp_wfnotifications
+0082.193 (R) [notice] Search and replacing table: wp_wfnotifications: rows: 9
+0082.223 (R) [notice] Processing table (InnoDB):  wp_wfpendingissues
+0082.406 (R) [notice] Search and replacing table: wp_wfpendingissues: rows: 0
+0082.407 (R) [notice] Processing table (InnoDB):  wp_wfreversecache
+0082.508 (R) [notice] Search and replacing table: wp_wfreversecache: rows: 5
+0082.509 (R) [notice] Processing table (InnoDB):  wp_wfsnipcache
+0082.639 (R) [notice] Search and replacing table: wp_wfsnipcache: rows: 0
+0082.639 (R) [notice] Processing table (InnoDB):  wp_wfstatus
+0082.897 (R) [notice] Search and replacing table: wp_wfstatus: rows: 940
+0082.952 (R) [notice] Processing table (InnoDB):  wp_wftrafficrates
+0083.114 (R) [notice] Search and replacing table: wp_wftrafficrates: rows: 0
+0083.114 (R) [notice] Processing table (InnoDB):  wp_wpmailsmtp_tasks_meta
+0083.238 (R) [notice] Search and replacing table: wp_wpmailsmtp_tasks_meta: rows: 24
+0083.240 (R) [notice] Finished: lines processed: 440 in 83.18 seconds
+0083.241 (R) [notice] Cleaning up rubbish...
+0083.266 (R) [notice] Warning: the database's site URL (http://kidsloop.vn) is different to what we expected (https://www.kidsloop.net)
+0083.282 (R) [notice] Database search and replace: replace https://www.kidsloop.net/wp-content in backup dump with https://kidsloop.vn/wp-content
+0083.282 (R) [notice] Database search and replace: replace https://www.kidsloop.net in backup dump with http://kidsloop.vn
+0083.282 (R) [notice] Database search and replace: replace http://www.kidsloop.net/wp-content in backup dump with https://kidsloop.vn/wp-content
+0083.282 (R) [notice] Database search and replace: replace http://www.kidsloop.net in backup dump with http://kidsloop.vn
+0083.284 (R) [notice] Search and replacing table: wp_4_content_tabs_ultimate_import: already done
+0083.284 (R) [notice] Search and replacing table: wp_4_content_tabs_ultimate_list: already done
+0083.284 (R) [notice] Search and replacing table: wp_4_content_tabs_ultimate_style: already done
+0083.284 (R) [notice] Search and replacing table: wp_4_layerslider: already done
+0083.284 (R) [notice] Search and replacing table: wp_4_layerslider_revisions: already done
+0083.284 (R) [notice] Search and replacing table: wp_4_pmxe_exports: already done
+0083.284 (R) [notice] Search and replacing table: wp_4_pmxe_google_cats: already done
+0083.285 (R) [notice] Search and replacing table: wp_4_pmxe_posts: already done
+0083.285 (R) [notice] Search and replacing table: wp_4_pmxe_templates: already done
+0083.285 (R) [notice] Search and replacing table: wp_4_redirection_404: already done
+0083.285 (R) [notice] Search and replacing table: wp_4_redirection_groups: already done
+0083.285 (R) [notice] Search and replacing table: wp_4_redirection_items: already done
+0083.285 (R) [notice] Search and replacing table: wp_4_redirection_logs: already done
+0083.285 (R) [notice] Search and replacing table: wp_4_revslider_css: already done
+0083.285 (R) [notice] Search and replacing table: wp_4_revslider_css_bkp: already done
+0083.285 (R) [notice] Search and replacing table: wp_4_revslider_layer_animations: already done
+0083.285 (R) [notice] Search and replacing table: wp_4_revslider_layer_animations_bkp: already done
+0083.285 (R) [notice] Search and replacing table: wp_4_revslider_navigations: already done
+0083.285 (R) [notice] Search and replacing table: wp_4_revslider_navigations_bkp: already done
+0083.285 (R) [notice] Search and replacing table: wp_4_revslider_sliders: already done
+0083.285 (R) [notice] Search and replacing table: wp_4_revslider_sliders_bkp: already done
+0083.286 (R) [notice] Search and replacing table: wp_4_revslider_slides: already done
+0083.286 (R) [notice] Search and replacing table: wp_4_revslider_slides_bkp: already done
+0083.286 (R) [notice] Search and replacing table: wp_4_revslider_static_slides: already done
+0083.286 (R) [notice] Search and replacing table: wp_4_revslider_static_slides_bkp: already done
+0083.286 (R) [notice] Search and replacing table: wp_4_tm_taskmeta: already done
+0083.286 (R) [notice] Search and replacing table: wp_4_tm_tasks: already done
+0083.286 (R) [notice] Search and replacing table: wp_5_commentmeta: already done
+0083.286 (R) [notice] Search and replacing table: wp_5_comments: already done
+0083.286 (R) [notice] Search and replacing table: wp_5_content_tabs_ultimate_import: already done
+0083.286 (R) [notice] Search and replacing table: wp_5_content_tabs_ultimate_list: already done
+0083.286 (R) [notice] Search and replacing table: wp_5_content_tabs_ultimate_style: already done
+0083.286 (R) [notice] Search and replacing table: wp_5_layerslider: already done
+0083.286 (R) [notice] Search and replacing table: wp_5_layerslider_revisions: already done
+0083.286 (R) [notice] Search and replacing table: wp_5_links: already done
+0083.286 (R) [notice] Search and replacing table: wp_5_options: already done
+0083.286 (R) [notice] Search and replacing table: wp_5_pmxe_exports: already done
+0083.287 (R) [notice] Search and replacing table: wp_5_pmxe_google_cats: already done
+0083.287 (R) [notice] Search and replacing table: wp_5_pmxe_posts: already done
+0083.287 (R) [notice] Search and replacing table: wp_5_pmxe_templates: already done
+0083.287 (R) [notice] Search and replacing table: wp_5_postmeta: already done
+0083.287 (R) [notice] Search and replacing table: wp_5_posts: already done
+0083.287 (R) [notice] Search and replacing table: wp_5_redirection_404: already done
+0083.287 (R) [notice] Search and replacing table: wp_5_redirection_groups: already done
+0083.287 (R) [notice] Search and replacing table: wp_5_redirection_items: already done
+0083.287 (R) [notice] Search and replacing table: wp_5_redirection_logs: already done
+0083.287 (R) [notice] Search and replacing table: wp_5_revslider_css: already done
+0083.287 (R) [notice] Search and replacing table: wp_5_revslider_css_bkp: already done
+0083.287 (R) [notice] Search and replacing table: wp_5_revslider_layer_animations: already done
+0083.287 (R) [notice] Search and replacing table: wp_5_revslider_layer_animations_bkp: already done
+0083.287 (R) [notice] Search and replacing table: wp_5_revslider_navigations: already done
+0083.287 (R) [notice] Search and replacing table: wp_5_revslider_navigations_bkp: already done
+0083.287 (R) [notice] Search and replacing table: wp_5_revslider_sliders: already done
+0083.288 (R) [notice] Search and replacing table: wp_5_revslider_sliders_bkp: already done
+0083.288 (R) [notice] Search and replacing table: wp_5_revslider_slides: already done
+0083.288 (R) [notice] Search and replacing table: wp_5_revslider_slides_bkp: already done
+0083.288 (R) [notice] Search and replacing table: wp_5_revslider_static_slides: already done
+0083.288 (R) [notice] Search and replacing table: wp_5_revslider_static_slides_bkp: already done
+0083.288 (R) [notice] Search and replacing table: wp_5_term_relationships: already done
+0083.288 (R) [notice] Search and replacing table: wp_5_term_taxonomy: already done
+0083.288 (R) [notice] Search and replacing table: wp_5_termmeta: already done
+0083.288 (R) [notice] Search and replacing table: wp_5_terms: already done
+0083.289 (R) [notice] Search and replacing table: wp_5_tm_taskmeta: already done
+0083.289 (R) [notice] Search and replacing table: wp_5_tm_tasks: already done
+0083.289 (R) [notice] Search and replacing table: wp_actionscheduler_actions: already done
+0083.289 (R) [notice] Search and replacing table: wp_actionscheduler_claims: already done
+0083.289 (R) [notice] Search and replacing table: wp_actionscheduler_groups: already done
+0083.289 (R) [notice] Search and replacing table: wp_actionscheduler_logs: already done
+0083.289 (R) [notice] Search and replacing table: wp_blogmeta: already done
+0083.289 (R) [notice] Search and replacing table: wp_blogs: already done
+0083.289 (R) [notice] Search and replacing table: wp_commentmeta: already done
+0083.289 (R) [notice] Search and replacing table: wp_comments: already done
+0083.289 (R) [notice] Search and replacing table: wp_layerslider: already done
+0083.289 (R) [notice] Search and replacing table: wp_layerslider_revisions: already done
+0083.289 (R) [notice] Search and replacing table: wp_links: already done
+0083.289 (R) [notice] Search and replacing table: wp_options: already done
+0083.290 (R) [notice] Search and replacing table: wp_postmeta: already done
+0083.290 (R) [notice] Search and replacing table: wp_posts: already done
+0083.290 (R) [notice] Search and replacing table: wp_registration_log: already done
+0083.290 (R) [notice] Search and replacing table: wp_revslider_css: already done
+0083.290 (R) [notice] Search and replacing table: wp_revslider_css_bkp: already done
+0083.290 (R) [notice] Search and replacing table: wp_revslider_layer_animations: already done
+0083.290 (R) [notice] Search and replacing table: wp_revslider_layer_animations_bkp: already done
+0083.290 (R) [notice] Search and replacing table: wp_revslider_navigations: already done
+0083.290 (R) [notice] Search and replacing table: wp_revslider_navigations_bkp: already done
+0083.290 (R) [notice] Search and replacing table: wp_revslider_sliders: already done
+0083.290 (R) [notice] Search and replacing table: wp_revslider_sliders_bkp: already done
+0083.290 (R) [notice] Search and replacing table: wp_revslider_slides: already done
+0083.290 (R) [notice] Search and replacing table: wp_revslider_slides_bkp: already done
+0083.290 (R) [notice] Search and replacing table: wp_revslider_static_slides: already done
+0083.290 (R) [notice] Search and replacing table: wp_revslider_static_slides_bkp: already done
+0083.290 (R) [notice] Search and replacing table: wp_signups: already done
+0083.290 (R) [notice] Search and replacing table: wp_site: already done
+0083.291 (R) [notice] Search and replacing table: wp_sitemeta: already done
+0083.291 (R) [notice] Search and replacing table: wp_statichtmloutput_crawl_log: already done
+0083.291 (R) [notice] Search and replacing table: wp_statichtmloutput_deploy_cache: already done
+0083.291 (R) [notice] Search and replacing table: wp_statichtmloutput_deploy_queue: already done
+0083.291 (R) [notice] Search and replacing table: wp_statichtmloutput_exclusions: already done
+0083.291 (R) [notice] Search and replacing table: wp_statichtmloutput_log: already done
+0083.291 (R) [notice] Search and replacing table: wp_statichtmloutput_urls: already done
+0083.291 (R) [notice] Search and replacing table: wp_term_relationships: already done
+0083.291 (R) [notice] Search and replacing table: wp_term_taxonomy: already done
+0083.291 (R) [notice] Search and replacing table: wp_termmeta: already done
+0083.291 (R) [notice] Search and replacing table: wp_terms: already done
+0083.291 (R) [notice] Search and replacing table: wp_tm_taskmeta: already done
+0083.291 (R) [notice] Search and replacing table: wp_tm_tasks: already done
+0083.291 (R) [notice] Search and replacing table: wp_usermeta: already done
+0083.291 (R) [notice] Search and replacing table: wp_users: already done
+0083.291 (R) [notice] Search and replacing table: wp_wfblockediplog: already done
+0083.291 (R) [notice] Search and replacing table: wp_wfblocks7: already done
+0083.291 (R) [notice] Search and replacing table: wp_wfconfig: already done
+0083.292 (R) [notice] Search and replacing table: wp_wfcrawlers: already done
+0083.292 (R) [notice] Search and replacing table: wp_wffilechanges: already done
+0083.292 (R) [notice] Search and replacing table: wp_wffilemods: already done
+0083.292 (R) [notice] Search and replacing table: wp_wfhits: already done
+0083.292 (R) [notice] Search and replacing table: wp_wfhoover: already done
+0083.292 (R) [notice] Search and replacing table: wp_wfissues: already done
+0083.292 (R) [notice] Search and replacing table: wp_wfknownfilelist: already done
+0083.292 (R) [notice] Search and replacing table: wp_wflivetraffichuman: already done
+0083.292 (R) [notice] Search and replacing table: wp_wflocs: already done
+0083.292 (R) [notice] Search and replacing table: wp_wflogins: already done
+0083.293 (R) [notice] Search and replacing table: wp_wfls_2fa_secrets: already done
+0083.293 (R) [notice] Search and replacing table: wp_wfls_settings: already done
+0083.293 (R) [notice] Search and replacing table: wp_wfnotifications: already done
+0083.293 (R) [notice] Search and replacing table: wp_wfpendingissues: already done
+0083.293 (R) [notice] Search and replacing table: wp_wfreversecache: already done
+0083.293 (R) [notice] Search and replacing table: wp_wfsnipcache: already done
+0083.293 (R) [notice] Search and replacing table: wp_wfstatus: already done
+0083.293 (R) [notice] Search and replacing table: wp_wftrafficrates: already done
+0083.293 (R) [notice] Search and replacing table: wp_wpmailsmtp_tasks_meta: already done
+0083.293 (R) [notice] Tables examined: 129
+0083.293 (R) [notice] Rows examined: 49282
+0083.293 (R) [notice] Changes made: 2606
+0083.293 (R) [notice] SQL update commands run: 2397
+0083.293 (R) [notice] Errors: 0
+0083.293 (R) [notice] Time taken (seconds): 46.973
+0083.327 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-plugins.zip, 25.4 MB)
+0085.883 (R) [notice] Unzip progress: 1703 out of 8380 files (1.2 KB, plugins/bridge-core/modules/shortcodes/shortcode-elements/split-scrolling-section/functions.php)
+0086.028 (R) [notice] Unzip progress: 2704 out of 8380 files (4.3 MB, plugins/bridge-core/modules/shortcodes/shortcode-elements/split-scrolling-section/split-scrolling-section-right-panel.php)
+0086.204 (R) [notice] Unzip progress: 3705 out of 8380 files (12.6 MB, plugins/polylang/include/translated-object.php)
+0086.406 (R) [notice] Unzip progress: 4706 out of 8380 files (25.6 MB, plugins/updraftplus/vendor/kriswallsmith/assetic/src/Assetic/Factory/Resource/CoalescingDirectoryResource.php)
+0086.556 (R) [notice] Unzip progress: 5707 out of 8380 files (31.5 MB, plugins/wp-mail-smtp/assets/languages/wp-mail-smtp.pot)
+0086.806 (R) [notice] Unzip progress: 6708 out of 8380 files (49.4 MB, plugins/ultimate-elementor/modules/login-form/includes/vendor/guzzlehttp/guzzle/src/Handler/CurlMultiHandler.php)
+0087.110 (R) [notice] Unzip progress: 7709 out of 8380 files (67.2 MB, plugins/contact-form-7/includes/integration.php)
+0087.367 (R) [notice] Unzip progress: 8380 out of 8380 files (80 MB, plugins/wordfence/css/wf-adminbar.1607007971.css)
+0087.373 (R) [notice] Moving old data out of the way...
+0088.371 (R) [notice] Moving unpacked backup into place...
+0089.078 (R) [notice] Cleaning up rubbish...
+0089.091 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-plugins2.zip, 0.9 MB)
+0089.167 (R) [notice] Unzip progress: 283 out of 283 files (2.5 MB, plugins/really-simple-ssl/class-server.php)
+0089.168 (R) [notice] Moving unpacked backup into place...
+0089.209 (R) [notice] Cleaning up rubbish...
+0089.236 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-themes.zip, 25.4 MB)
+0092.172 (R) [notice] Unzip progress: 662 out of 662 files (31.8 MB, themes/bridge/plugins/qode-twitter-feed.zip)
+0092.173 (R) [notice] Moving old data out of the way...
+0092.290 (R) [notice] Moving unpacked backup into place...
+0092.345 (R) [notice] Cleaning up rubbish...
+0092.356 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-themes2.zip, 6.1 MB)
+0093.167 (R) [notice] Unzip progress: 480 out of 480 files (16.3 MB, themes/bridge/includes/font_awesome/font-awesome.php)
+0093.168 (R) [notice] Moving unpacked backup into place...
+0093.245 (R) [notice] Cleaning up rubbish...
+0093.270 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads.zip, 30.1 MB)
+0094.939 (R) [notice] Unzip progress: 1002 out of 1159 files (17.5 MB, uploads/static-html-output/wp-content/themes/bridge/js/plugins/packery-mode.pkgd.min.js)
+0096.474 (R) [notice] Unzip progress: 1159 out of 1159 files (40.1 MB, uploads/sites/5/2019/10/data-analytics-e1567476923614-600x800.jpg)
+0096.476 (R) [notice] Moving old data out of the way...
+0096.519 (R) [notice] Moving unpacked backup into place...
+0096.631 (R) [notice] Cleaning up rubbish...
+0096.644 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads2.zip, 25.1 MB)
+0098.451 (R) [notice] Unzip progress: 84 out of 84 files (25.2 MB, uploads/sites/5/2019/10/stem_ios_icon-500x500.png)
+0098.452 (R) [notice] Moving unpacked backup into place...
+0098.463 (R) [notice] Cleaning up rubbish...
+0098.473 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads3.zip, 25.5 MB)
+0101.562 (R) [notice] Unzip progress: 66 out of 66 files (25.4 MB, uploads/sites/5/2019/10/rhyme2_ios_icon-539x303.png)
+0101.563 (R) [notice] Moving unpacked backup into place...
+0101.574 (R) [notice] Cleaning up rubbish...
+0101.583 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads4.zip, 25.1 MB)
+0103.306 (R) [notice] Unzip progress: 71 out of 71 files (25.1 MB, uploads/sites/5/2019/10/ZooParty-100x100.png)
+0103.307 (R) [notice] Moving unpacked backup into place...
+0103.314 (R) [notice] Cleaning up rubbish...
+0103.323 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads5.zip, 25.5 MB)
+0105.166 (R) [notice] Unzip progress: 76 out of 76 files (25.5 MB, uploads/sites/5/2019/10/Sub_KidsLoopLMS_mobile_C01-281x500.png)
+0105.167 (R) [notice] Moving unpacked backup into place...
+0105.175 (R) [notice] Cleaning up rubbish...
+0105.183 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads6.zip, 25 MB)
+0107.311 (R) [notice] Unzip progress: 107 out of 107 files (25 MB, uploads/sites/5/2019/10/stem_ios_icon-345x198.png)
+0107.312 (R) [notice] Moving unpacked backup into place...
+0107.323 (R) [notice] Cleaning up rubbish...
+0107.335 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads7.zip, 25.1 MB)
+0110.233 (R) [notice] Unzip progress: 189 out of 189 files (25.1 MB, uploads/sites/5/2019/02/architects-300x240.jpg)
+0110.234 (R) [notice] Moving unpacked backup into place...
+0110.268 (R) [notice] Cleaning up rubbish...
+0110.279 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads8.zip, 25.6 MB)
+0113.466 (R) [notice] Unzip progress: 121 out of 121 files (25.6 MB, uploads/sites/5/2019/11/Phone_organizations-300x147.png)
+0113.467 (R) [notice] Moving unpacked backup into place...
+0113.480 (R) [notice] Cleaning up rubbish...
+0113.487 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads9.zip, 25.2 MB)
+0115.751 (R) [notice] Unzip progress: 125 out of 125 files (25.2 MB, uploads/sites/5/2019/11/Phone_parents-1024x502.png)
+0115.752 (R) [notice] Moving unpacked backup into place...
+0115.765 (R) [notice] Cleaning up rubbish...
+0115.788 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads10.zip, 25.2 MB)
+0117.958 (R) [notice] Unzip progress: 114 out of 114 files (25.2 MB, uploads/sites/5/2019/11/badanamu_esl_logo-150x136.png)
+0117.959 (R) [notice] Moving unpacked backup into place...
+0117.971 (R) [notice] Cleaning up rubbish...
+0118.011 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads11.zip, 25.2 MB)
+0120.323 (R) [notice] Unzip progress: 106 out of 106 files (25.2 MB, uploads/sites/5/2019/11/ipad_curriculum_stages-500x380.png)
+0120.324 (R) [notice] Moving unpacked backup into place...
+0120.336 (R) [notice] Cleaning up rubbish...
+0120.362 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads12.zip, 25 MB)
+0123.512 (R) [notice] Unzip progress: 120 out of 120 files (25 MB, uploads/sites/5/2019/11/ipad_classroom_bada-600x599.png)
+0123.513 (R) [notice] Moving unpacked backup into place...
+0123.526 (R) [notice] Cleaning up rubbish...
+0123.548 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads13.zip, 25.1 MB)
+0127.786 (R) [notice] Unzip progress: 197 out of 197 files (25.2 MB, uploads/sites/5/2019/12/s10_class_stats.02_DS-500x1000.png)
+0127.787 (R) [notice] Moving unpacked backup into place...
+0127.808 (R) [notice] Cleaning up rubbish...
+0127.818 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads14.zip, 25.1 MB)
+0130.878 (R) [notice] Unzip progress: 131 out of 131 files (25 MB, uploads/sites/5/2019/12/ipad_curriculum_stages_min.03-600x800.png)
+0130.879 (R) [notice] Moving unpacked backup into place...
+0130.891 (R) [notice] Cleaning up rubbish...
+0130.901 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads15.zip, 34.5 MB)
+0134.036 (R) [notice] Unzip progress: 168 out of 168 files (34.6 MB, uploads/sites/5/2019/12/home_learning.02-768x596.png)
+0134.038 (R) [notice] Moving unpacked backup into place...
+0134.055 (R) [notice] Cleaning up rubbish...
+0134.069 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads16.zip, 25 MB)
+0138.072 (R) [notice] Unzip progress: 328 out of 328 files (25 MB, uploads/sites/5/2019/09/josip-ivankovic-jpeTs-VfP68-unsplash-400x260.jpg)
+0138.073 (R) [notice] Moving unpacked backup into place...
+0138.106 (R) [notice] Cleaning up rubbish...
+0138.116 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads17.zip, 25.1 MB)
+0143.047 (R) [notice] Unzip progress: 418 out of 418 files (25.1 MB, uploads/sites/5/2016/07/single-product-4-398x303.jpg)
+0143.049 (R) [notice] Moving unpacked backup into place...
+0143.114 (R) [notice] Cleaning up rubbish...
+0143.127 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads18.zip, 25.1 MB)
+0145.859 (R) [notice] Unzip progress: 170 out of 170 files (25 MB, uploads/sites/5/2020/03/content-management_feature.r1-768x476.png)
+0145.860 (R) [notice] Moving unpacked backup into place...
+0145.879 (R) [notice] Cleaning up rubbish...
+0145.892 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads19.zip, 25 MB)
+0148.142 (R) [notice] Unzip progress: 123 out of 123 files (25 MB, uploads/sites/5/2020/03/classroom_200205_www_01.02-500x1000.png)
+0148.143 (R) [notice] Moving unpacked backup into place...
+0148.157 (R) [notice] Cleaning up rubbish...
+0148.165 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads20.zip, 25 MB)
+0150.397 (R) [notice] Unzip progress: 118 out of 118 files (25 MB, uploads/sites/5/2020/01/ipad_home_popup-500x380.png)
+0150.398 (R) [notice] Moving unpacked backup into place...
+0150.411 (R) [notice] Cleaning up rubbish...
+0150.456 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads21.zip, 30.8 MB)
+0153.837 (R) [notice] Unzip progress: 106 out of 106 files (30.8 MB, uploads/sites/5/2020/02/Home_Final-768x432.png)
+0153.838 (R) [notice] Moving unpacked backup into place...
+0153.850 (R) [notice] Cleaning up rubbish...
+0153.859 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads22.zip, 25.5 MB)
+0156.582 (R) [notice] Unzip progress: 256 out of 256 files (29.5 MB, uploads/revslider/slider-1/banner-image-a-768x372.png)
+0156.584 (R) [notice] Moving unpacked backup into place...
+0156.616 (R) [notice] Cleaning up rubbish...
+0156.641 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads23.zip, 24.8 MB)
+0163.077 (R) [notice] Unzip progress: 618 out of 618 files (25.5 MB, uploads/2020/10/kidsloop03_bg-700x237.png)
+0163.078 (R) [notice] Moving unpacked backup into place...
+0163.161 (R) [notice] Cleaning up rubbish...
+0163.175 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads24.zip, 24.8 MB)
+0168.852 (R) [notice] Unzip progress: 586 out of 586 files (25 MB, uploads/2020/04/UVlights-150x150.png)
+0168.854 (R) [notice] Moving unpacked backup into place...
+0168.911 (R) [notice] Cleaning up rubbish...
+0168.921 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads25.zip, 24.5 MB)
+0175.264 (R) [notice] Unzip progress: 573 out of 573 files (24.3 MB, uploads/2020/04/01.01-500x500.png)
+0175.265 (R) [notice] Moving unpacked backup into place...
+0175.342 (R) [notice] Cleaning up rubbish...
+0175.351 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads26.zip, 25.5 MB)
+0178.111 (R) [notice] Unzip progress: 189 out of 189 files (25.5 MB, uploads/2020/06/Zoo_Banner_mobile_v001-539x303.jpg)
+0178.113 (R) [notice] Moving unpacked backup into place...
+0178.133 (R) [notice] Cleaning up rubbish...
+0178.142 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads27.zip, 51.9 MB)
+0183.227 (R) [notice] Unzip progress: 212 out of 212 files (51.9 MB, uploads/2020/11/study_1-572x500.jpg)
+0183.229 (R) [notice] Moving unpacked backup into place...
+0183.252 (R) [notice] Cleaning up rubbish...
+0183.263 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads28.zip, 25.1 MB)
+0189.211 (R) [notice] Unzip progress: 322 out of 322 files (25.1 MB, uploads/2020/11/feature-vector-2-345x198.png)
+0189.213 (R) [notice] Moving unpacked backup into place...
+0189.246 (R) [notice] Cleaning up rubbish...
+0189.341 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads29.zip, 25.1 MB)
+0194.162 (R) [notice] Unzip progress: 166 out of 166 files (25.1 MB, uploads/2020/11/browser-01-600x800.png)
+0194.163 (R) [notice] Moving unpacked backup into place...
+0194.184 (R) [notice] Cleaning up rubbish...
+0194.207 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads30.zip, 25.6 MB)
+0199.941 (R) [notice] Unzip progress: 366 out of 366 files (25.5 MB, uploads/2020/11/checklist-258x300.png)
+0199.943 (R) [notice] Moving unpacked backup into place...
+0200.063 (R) [notice] Cleaning up rubbish...
+0200.078 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads31.zip, 26.1 MB)
+0206.497 (R) [notice] Unzip progress: 392 out of 392 files (26.1 MB, uploads/2020/11/Our-Team-539x301.png)
+0206.498 (R) [notice] Moving unpacked backup into place...
+0206.563 (R) [notice] Cleaning up rubbish...
+0206.637 (R) [notice] Unpacking backup... (backup_2020-12-09-1929_KidsLoop_51a5b8de6cb4-uploads32.zip, 17.8 MB)
+0212.017 (R) [notice] Unzip progress: 347 out of 347 files (17.7 MB, uploads/2020/12/bg_23_subscreens_7-700x392.png)
+0212.019 (R) [notice] Moving unpacked backup into place...
+0212.061 (R) [notice] Cleaning up rubbish...
+0212.138 (R) [notice] Restore successful!
